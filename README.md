@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iamnotdavee
-- 👀 I’m interested in graphic design
-- 🌱 I’m currently learning html, css, js
+- 👋 Hi, I’m David
+- 👀 I'm a Graphic Designer
+- 🌱 I specialize in UI/UX and Branding Designs.
 
 <!---
 iamnotdavee/iamnotdavee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
