@@ -1,7 +1,13 @@
 ![dwe](welcome.png)
-- 👋 Hi, I’m David
-- 💻 I'm a Graphic Designer
-- ✨ I specialize in UI/UX and Brandings.
+
+<div align="center">
+
+👋  
+Hello, I'm **David**
+
+🎞️  
+I'm a **Graphic Designer**
+</div>
 
 <!---
 iamnotdavee/iamnotdavee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
