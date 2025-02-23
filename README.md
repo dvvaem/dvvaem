@@ -1,3 +1,4 @@
+![dwe](welcome.png)
 - 👋 Hi, I’m David
 - 💻 I'm a Graphic Designer
 - ✨ I specialize in UI/UX and Brandings.
